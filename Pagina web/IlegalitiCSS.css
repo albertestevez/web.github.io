@@ -1,0 +1,322 @@
+ *{   
+
+  
+
+margin: 0px;  
+
+  
+
+padding: 0px;  
+
+  
+
+}   
+
+  
+
+   
+
+  
+
+html{   
+
+  
+
+     background: purple;   
+
+  
+
+     margin:10px;   
+
+  
+
+     height: 100px;   
+
+  
+
+   
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+#container{   
+
+    width: 1100px;  
+
+    margin: 0px auto;  
+
+     
+
+     
+
+  
+
+  
+
+}  
+
+  
+
+header{  
+
+  
+
+background: #1eff05;  
+
+  
+
+height: 100px;  
+
+  
+
+width: 100%;  
+
+  
+
+     margin: 0px;  
+
+  
+
+     text-align: center;  
+
+  
+
+     line-height: 100px;  
+
+  
+
+color: purple;  
+
+  
+
+     border-bottom: 3px solid black;	   
+
+  
+
+}	  
+
+  
+
+  
+
+   
+
+  
+
+nav{   
+
+  
+
+background: #1eff05;  
+
+  
+
+height: 50px;  
+
+margin-right: 140px; 
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+nav ul li{  
+
+  
+
+    float: left;  
+
+  
+
+    list-style: none; 	  
+
+  
+
+margin: 10px;   
+
+  
+
+line-height: 30px;   
+
+  
+
+border-bottom: 1px solid black;   
+
+  
+
+  
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+.clearfix{   
+
+  
+
+clear: both;   
+
+  
+
+}  
+
+  
+
+   
+
+  
+
+#content{  
+
+  
+
+float: left;  
+
+  
+
+width: calc(80% - 80px);  
+
+  
+
+min-height: 500px;  
+
+  
+
+padding: 40px;  
+
+color: #1eff05; 
+
+margin-top: 5px; 
+
+  
+
+  
+
+  
+
+  
+
+}  
+
+#content h2{ 
+
+margin-top: 35px; 
+
+border-bottom: 3px solid #1eff05; 
+
+} 
+
+#NOTICIAS h1 { 
+
+color: #1eff05; 
+
+margin-top: 50px;  
+
+ 
+
+} 
+
+  
+
+aside{  
+
+  
+
+float: left;  
+
+  
+
+width: calc(20% - 20px);  
+
+  
+
+background: #1eff05;   
+
+  
+
+min-height: 500px;  
+
+  
+
+padding: 10px;  
+
+  
+
+}  
+
+  
+
+.clearfix{   
+
+  
+
+clear: both;   
+
+  
+
+}  
+
+  
+
+#JUEGOS h1{ 
+
+color: #1eff05; 
+
+margin-top: 50px;  
+
+} 
+
+ 
+
+table{ 
+
+ float: left;  
+
+  
+
+width: calc(80% - 80px);  
+
+  
+
+min-height: 500px;  
+
+  
+
+padding: 40px;  
+color: #1eff05;
+
+} 
+
+  
+
+table tr td{ 
+
+  
+
+ text-align: center; 
+
+} 
+
+
+
+
+
+	
